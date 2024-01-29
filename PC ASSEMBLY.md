@@ -6,9 +6,9 @@ Learning to assemble and disassemble a PC was like solving a complex puzzle. It 
 - **Precision:** Every part has a specific place.
 - **Attention to Detail:** Each connection influences overall functionality.
 - **Troubleshooting:** Identifying and solving issues enhances problem-solving skills.
-![Uploading pc assembly.jpg…]()
 
 This experience transformed a PC from a tool into a familiar friend, demystifying its inner workings.
 
-![Uploading image.png…]()
 
+
+![pc assembly](https://github.com/HaziqHafizal/SECP1513/assets/152416635/f035c6bc-1444-4d92-96f9-77ec7795e266)
