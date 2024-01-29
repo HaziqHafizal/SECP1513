@@ -9,4 +9,5 @@ Learning to assemble and disassemble a PC was like solving a complex puzzle. It 
 
 This experience transformed a PC from a tool into a familiar friend, demystifying its inner workings.
 
-<img width="1280" alt="Screenshot 2024-01-09 224903" src="https://github.com/HaziqHafizal/SECP1513/assets/152416635/09516202-d473-4dbe-9a24-bc1de6451800">
+![Uploading image.png…]()
+
